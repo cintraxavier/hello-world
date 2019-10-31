@@ -1,2 +1,3 @@
 # hello-world
-iniciante
+inicianteSou  iniciante  e preciso de ajuda para construir um projeto
+
